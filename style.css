@@ -381,3 +381,9 @@ body {
   text-decoration: none;
   color: white;
 }
+
+@media (max-width: 768px) {
+  .card {
+    width: 85%;
+  }
+}
